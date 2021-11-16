@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @RickOLDev
+- 👀 I’m interested in web development (especially technologies like HTML, CSS, Java, JavaScript, ReactJS and NodeJS)
+- 🌱 I’m constantly learning things that I like.
+- 💞️ I’m looking to collaborate on any project.
+- 📫 How to reach me: rholivera93@gmail.com
+- Thanks!!
